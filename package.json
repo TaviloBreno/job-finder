@@ -1,0 +1,25 @@
+{
+  "name": "job_finder",
+  "version": "1.0.0",
+  "description": "Este é um protal para programadores encontrarem emprego",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TaviloBreno/job-finder.git"
+  },
+  "keywords": [
+    "dev",
+    "jobs",
+    "dev",
+    "opportunity"
+  ],
+  "author": "Tavilo Breno",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TaviloBreno/job-finder/issues"
+  },
+  "homepage": "https://github.com/TaviloBreno/job-finder#readme"
+}
